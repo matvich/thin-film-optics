@@ -6,7 +6,7 @@ There are some information about current coatings:
 
 ## Coatings Table
 
-| Designs      |Layers #| Dispersion |Sub Att|Sub Thinck|  Syn Range | Mon Range  | Syn Angle | Mon Angle |
+| Designs      |Layers #| Dispersion |Sub Att|Sub Thick|  Syn Range | Mon Range  | Syn Angle | Mon Angle |
 | -------------|:------:| :---------:|:----:|:--------:|:----------:|:----------:|:---:|:---:|
 | NPEF         | 50     |      -     |   -  |    1e6   |  900-1100  |650-1150 // 400-900|45|0|
 | Polarizer    | 28     |      -     |   -  |    1e6   | 1039-1069  |650-1150 // 450-950|55.6|0|
