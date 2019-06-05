@@ -1,0 +1,20 @@
+﻿  design.cpp
+C:\Users\ivash\OneDrive\Study Work\MSU\MSU-RSCC\thin-film-optics\thin-film-optics\design.h(104,52): warning C4244:  'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\ivash\OneDrive\Study Work\MSU\MSU-RSCC\thin-film-optics\thin-film-optics\design.h(106,52): warning C4244:  'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\ivash\OneDrive\Study Work\MSU\MSU-RSCC\thin-film-optics\thin-film-optics\design.h(108,52): warning C4244:  'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\ivash\OneDrive\Study Work\MSU\MSU-RSCC\thin-film-optics\thin-film-optics\design.cpp(318,14): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ivash\OneDrive\Study Work\MSU\MSU-RSCC\thin-film-optics\thin-film-optics\design.cpp(327,62): warning C4244:  'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\ivash\OneDrive\Study Work\MSU\MSU-RSCC\thin-film-optics\thin-film-optics\design.cpp(356,14): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ivash\OneDrive\Study Work\MSU\MSU-RSCC\thin-film-optics\thin-film-optics\design.cpp(451,31): warning C4244:  'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\ivash\OneDrive\Study Work\MSU\MSU-RSCC\thin-film-optics\thin-film-optics\design.cpp(453,68): warning C4244:  'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\ivash\OneDrive\Study Work\MSU\MSU-RSCC\thin-film-optics\thin-film-optics\design.cpp(454,68): warning C4244:  'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\ivash\OneDrive\Study Work\MSU\MSU-RSCC\thin-film-optics\thin-film-optics\design.cpp(468,31): warning C4244:  'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\ivash\OneDrive\Study Work\MSU\MSU-RSCC\thin-film-optics\thin-film-optics\design.cpp(470,67): warning C4244:  'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\ivash\OneDrive\Study Work\MSU\MSU-RSCC\thin-film-optics\thin-film-optics\design.cpp(471,67): warning C4244:  'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\ivash\OneDrive\Study Work\MSU\MSU-RSCC\thin-film-optics\thin-film-optics\design.cpp(480,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ivash\OneDrive\Study Work\MSU\MSU-RSCC\thin-film-optics\thin-film-optics\design.cpp(496,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ivash\OneDrive\Study Work\MSU\MSU-RSCC\thin-film-optics\thin-film-optics\design.cpp(498,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ivash\OneDrive\Study Work\MSU\MSU-RSCC\thin-film-optics\thin-film-optics\design.cpp(508,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ivash\OneDrive\Study Work\MSU\MSU-RSCC\thin-film-optics\thin-film-optics\design.cpp(508,20): warning C4018: C:\Users\ivash\OneDrive\Study Work\MSU\MSU-RSCC\thin-film-optics\thin-film-optics\design.h(110) : warning C4715: 'design::get_n': not all control paths return a value
+C:\Users\ivash\OneDrive\Study Work\MSU\MSU-RSCC\thin-film-optics\thin-film-optics\design.cpp(508,20): warning C4018: C:\Users\ivash\OneDrive\Study Work\MSU\MSU-RSCC\thin-film-optics\thin-film-optics\design.h(121) : warning C4715: 'design::get_n_vec': not all control paths return a value
+  thin-film-optics.vcxproj -> C:\Users\ivash\OneDrive\Study Work\MSU\MSU-RSCC\thin-film-optics\thin-film-optics\Debug\thin-film-optics.exe

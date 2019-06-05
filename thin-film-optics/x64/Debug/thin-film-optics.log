@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\ivash\OneDrive\Study Work\MSU\MSU-RSCC\thin-film-optics\thin-film-optics\design.h(104,52): warning C4244:  'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ivash\OneDrive\Study Work\MSU\MSU-RSCC\thin-film-optics\thin-film-optics\design.h(106,52): warning C4244:  'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ivash\OneDrive\Study Work\MSU\MSU-RSCC\thin-film-optics\thin-film-optics\design.h(108,52): warning C4244:  'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ivash\OneDrive\Study Work\MSU\MSU-RSCC\thin-film-optics\thin-film-optics\design.h(136,1): warning C4267:  'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ivash\OneDrive\Study Work\MSU\MSU-RSCC\thin-film-optics\thin-film-optics\main.cpp(45,22): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ivash\OneDrive\Study Work\MSU\MSU-RSCC\thin-film-optics\thin-film-optics\main.cpp(45,22): warning C4267: C:\Users\ivash\OneDrive\Study Work\MSU\MSU-RSCC\thin-film-optics\thin-film-optics\design.h(110) : warning C4715: 'design::get_n': not all control paths return a value
+C:\Users\ivash\OneDrive\Study Work\MSU\MSU-RSCC\thin-film-optics\thin-film-optics\main.cpp(45,22): warning C4267: C:\Users\ivash\OneDrive\Study Work\MSU\MSU-RSCC\thin-film-optics\thin-film-optics\design.h(121) : warning C4715: 'design::get_n_vec': not all control paths return a value
+  thin-film-optics.vcxproj -> C:\Users\ivash\OneDrive\Study Work\MSU\MSU-RSCC\thin-film-optics\thin-film-optics\x64\Debug\thin-film-optics.exe
